@@ -1,3 +1,11 @@
-.idea/
-__pycache__/
+# Python
+.venv/
+venv/
+__pycycache__/
 *.pyc
+
+# PyCharm
+.idea/
+
+development_results.json
+final_results.json
